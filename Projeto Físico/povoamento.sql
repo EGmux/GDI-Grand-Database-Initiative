@@ -289,7 +289,6 @@ INSERT INTO DIRIGE VALUES ('Claude Speed', 'Vá ao hospital e leve Misty até o 
 INSERT INTO DIRIGE VALUES ('Claude Speed', 'Mate o traficante, roube o carro dele e repinte-o.', 'Rhino');
 INSERT INTO DIRIGE VALUES ('Claude Speed', 'Leve Misty até a garagem de Joey.', 'Cabbie');
 INSERT INTO DIRIGE VALUES ('Claude Speed', 'Mate os dois cafetões.', 'Infernus');
-INSERT INTO DIRIGE VALUES ('Claude Speed', 'Leve o máximo de prostitutas possíveis até o Old School Hall.', 'Blista');
 
 -- (VC)
 INSERT INTO DIRIGE VALUES ('Tommy Vercetti', 'Chegue ao barco do Coronel e leve a filha dele para a Boate Pole Position.', 'Speeder');
