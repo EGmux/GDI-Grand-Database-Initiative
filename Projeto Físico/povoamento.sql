@@ -2,45 +2,45 @@
 -- INSERT INTO PESSOA(NOME, DT_NASC, GENERO, END_CIDADE, END_BAIRRO) VALUES
 -- (III)
 INSERT INTO PESSOA VALUES ('Asuka Kasen', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Portland Beach');
-INSERT INTO PESSOA VALUES ('Catalina', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Callahan Point');
-INSERT INTO PESSOA VALUES ('Claude Speed', TO_DATE('22-10-2001', 'DD/MM/YYYY'),'Masculino', 'Liberty City', 'Red Light District');
-INSERT INTO PESSOA VALUES ('Donald Love', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Portland View');
-INSERT INTO PESSOA VALUES ('Joey Leone', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Hepburn Heights');
-INSERT INTO PESSOA VALUES ('Kenji Kasen', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Portland Beach');
-INSERT INTO PESSOA VALUES ('Lee Chong', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Chinatown');
-INSERT INTO PESSOA VALUES ('Luigi Goterelli', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Red Light District');
-INSERT INTO PESSOA VALUES ('Maria Latore', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Portland Beach');
-INSERT INTO PESSOA VALUES ('Misty', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Red Light District');
-INSERT INTO PESSOA VALUES ('Miguel', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Trenton');
-INSERT INTO PESSOA VALUES ('Salvatore Leone', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Saint Marks');
-INSERT INTO PESSOA VALUES ('Toni Cipriani', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Saint Marks');
+INSERT INTO PESSOA VALUES ('Catalina', TO_DATE('05-03-1999', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Callahan Point');
+INSERT INTO PESSOA VALUES ('Claude Speed', TO_DATE('17-07-2000', 'DD/MM/YYYY'),'Masculino', 'Liberty City', 'Red Light District');
+INSERT INTO PESSOA VALUES ('Donald Love', TO_DATE('29-11-1998', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Portland View');
+INSERT INTO PESSOA VALUES ('Joey Leone', TO_DATE('03-01-2002', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Hepburn Heights');
+INSERT INTO PESSOA VALUES ('Kenji Kasen', TO_DATE('14-06-1997', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Portland Beach');
+INSERT INTO PESSOA VALUES ('Lee Chong', TO_DATE('30-09-2003', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Chinatown');
+INSERT INTO PESSOA VALUES ('Luigi Goterelli', TO_DATE('11-12-1996', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Red Light District');
+INSERT INTO PESSOA VALUES ('Maria Latore', TO_DATE('26-04-1995', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Portland Beach');
+INSERT INTO PESSOA VALUES ('Misty', TO_DATE('08-08-2004', 'DD/MM/YYYY'), 'Feminino', 'Liberty City','Red Light District');
+INSERT INTO PESSOA VALUES ('Miguel', TO_DATE('19-02-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Trenton');
+INSERT INTO PESSOA VALUES ('Salvatore Leone', TO_DATE('21-05-1999', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Saint Marks');
+INSERT INTO PESSOA VALUES ('Toni Cipriani', TO_DATE('07-10-2000', 'DD/MM/YYYY'), 'Masculino', 'Liberty City','Saint Marks');
 
 -- (VC)
-INSERT INTO PESSOA VALUES ('Ken Rosenberg', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Washington Beach');
-INSERT INTO PESSOA VALUES ('Kent Paul', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Ocean Side');
-INSERT INTO PESSOA VALUES ('Lance Vance', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Vice Beach');
-INSERT INTO PESSOA VALUES ('Leo Teal', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Ocean Beach');
-INSERT INTO PESSOA VALUES ('Marco Forelli', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Saint Marks');
-INSERT INTO PESSOA VALUES ('Mercedez Cortez', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Feminino', 'Vice City', 'Vice Beach');
-INSERT INTO PESSOA VALUES ('Ricardo Díaz', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Starfish Island');
-INSERT INTO PESSOA VALUES ('Sonny Forelli', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Portland');
-INSERT INTO PESSOA VALUES ('Stephen Scott', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Viceport');
-INSERT INTO PESSOA VALUES ('Tommy Vercetti', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Vice Beach');
-INSERT INTO PESSOA VALUES ('Umberto Robina', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Little Havana');
-INSERT INTO PESSOA VALUES ('Victor Vance', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Little Havana');
+INSERT INTO PESSOA VALUES ('Ken Rosenberg', TO_DATE('13-03-1998', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Washington Beach');
+INSERT INTO PESSOA VALUES ('Kent Paul', TO_DATE('25-07-2002', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Ocean Side');
+INSERT INTO PESSOA VALUES ('Lance Vance', TO_DATE('04-11-1997', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Vice Beach');
+INSERT INTO PESSOA VALUES ('Leo Teal', TO_DATE('16-01-2003', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Ocean Beach');
+INSERT INTO PESSOA VALUES ('Marco Forelli', TO_DATE('28-06-1996', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Saint Marks');
+INSERT INTO PESSOA VALUES ('Mercedez Cortez', TO_DATE('09-09-1995', 'DD/MM/YYYY'), 'Feminino', 'Vice City', 'Vice Beach');
+INSERT INTO PESSOA VALUES ('Ricardo Díaz', TO_DATE('31-12-2004', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Starfish Island');
+INSERT INTO PESSOA VALUES ('Sonny Forelli', TO_DATE('10-02-2000', 'DD/MM/YYYY'), 'Masculino', 'Liberty City', 'Portland');
+INSERT INTO PESSOA VALUES ('Stephen Scott', TO_DATE('23-05-1998', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Viceport');
+INSERT INTO PESSOA VALUES ('Tommy Vercetti', TO_DATE('06-08-2001', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Vice Beach');
+INSERT INTO PESSOA VALUES ('Umberto Robina', TO_DATE('18-11-1999', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Little Havana');
+INSERT INTO PESSOA VALUES ('Victor Vance', TO_DATE('27-04-2003', 'DD/MM/YYYY'), 'Masculino', 'Vice City', 'Little Havana');
 
 -- (SA)
-INSERT INTO PESSOA VALUES ('B-Dup', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Ganton');
-INSERT INTO PESSOA VALUES ('Big Smoke', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Idlewood');
-INSERT INTO PESSOA VALUES ('Carl Johnson', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Groove Street');
-INSERT INTO PESSOA VALUES ('Cesar Vialpando', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'El Corona');
-INSERT INTO PESSOA VALUES ('Denise Robinson', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Feminino', 'Los Santos', 'Ganton');
-INSERT INTO PESSOA VALUES ('Eddie Pulaski', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Las Venturas', 'Prickle Pine');
-INSERT INTO PESSOA VALUES ('Emmet', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Willowfield');
-INSERT INTO PESSOA VALUES ('Frank Tenpenny', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Las Venturas', 'Center');
-INSERT INTO PESSOA VALUES ('Jethro', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'San Fierro', 'Doherty');
-INSERT INTO PESSOA VALUES ('Ryder', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Groove Street');
-INSERT INTO PESSOA VALUES ('Sweet', TO_DATE('22-10-2001', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Groove Street');
+INSERT INTO PESSOA VALUES ('B-Dup', TO_DATE('02-07-1997', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Ganton');
+INSERT INTO PESSOA VALUES ('Big Smoke', TO_DATE('15-10-1996', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Idlewood');
+INSERT INTO PESSOA VALUES ('Carl Johnson', TO_DATE('20-03-1995', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Groove Street');
+INSERT INTO PESSOA VALUES ('Cesar Vialpando', TO_DATE('12-09-2004', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'El Corona');
+INSERT INTO PESSOA VALUES ('Denise Robinson', TO_DATE('24-12-2002', 'DD/MM/YYYY'), 'Feminino', 'Los Santos', 'Ganton');
+INSERT INTO PESSOA VALUES ('Eddie Pulaski', TO_DATE('01-01-1999', 'DD/MM/YYYY'), 'Masculino', 'Las Venturas', 'Prickle Pine');
+INSERT INTO PESSOA VALUES ('Emmet', TO_DATE('05-04-1997', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Willowfield');
+INSERT INTO PESSOA VALUES ('Frank Tenpenny', TO_DATE('22-08-2000', 'DD/MM/YYYY'), 'Masculino', 'Las Venturas', 'Center');
+INSERT INTO PESSOA VALUES ('Jethro', TO_DATE('14-11-1998', 'DD/MM/YYYY'), 'Masculino', 'San Fierro', 'Doherty');
+INSERT INTO PESSOA VALUES ('Ryder', TO_DATE('07-06-2002', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Groove Street');
+INSERT INTO PESSOA VALUES ('Sweet', TO_DATE('19-10-1996', 'DD/MM/YYYY'), 'Masculino', 'Los Santos', 'Groove Street');
 
 -- Sub-entidades
 -- INSERT INTO PROTAGONISTA(NOME) VALUES
@@ -265,7 +265,6 @@ INSERT INTO MEMBRO VALUES ('Ryder', 'Ballas');
 INSERT INTO MEMBRO VALUES ('Ryder', 'Vagos');
 INSERT INTO MEMBRO VALUES ('Sweet', 'Groove Street');
 
-
 -- INSERT INTO MATA VALUES (NOME_PROTAGONISTA, NOME_NPC, KILL_COUNT) VALUES
 -- (III)
 INSERT INTO MATA VALUES ('Claude Speed', 'Miguel', 5);
@@ -307,4 +306,5 @@ INSERT INTO TOCA VALUES ('Patriot', 'Shake It Up', 'Flashback FM');
 INSERT INTO TOCA VALUES ('Cheetah', 'Scary Movies' , 'Game Radio FM');
 INSERT INTO TOCA VALUES ('Greenwood', 'Express Yourself' , 'Radio Los Santos');
 INSERT INTO TOCA VALUES ('Greenwood', 'Hellraiser' , 'Radio X');
+INSERT INTO TOCA VALUES ('Infernus', 'Hellraiser' , 'Radio X');
 -- ----------------------------------------------
